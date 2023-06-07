@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="DBS  - login" skipped="0" tests="2" time="24.24" timestamp="2023-06-07 08:08:51"><testcase name="User has success to login DBS"/><testcase name="User has failed to login DBS"/></testsuite>
